@@ -1,0 +1,5 @@
+
+body { font-family: sans-serif; padding: 20px; }
+header { display: flex; justify-content: space-between; align-items: center; }
+.hire { background: black; color: gold; padding: 8px 14px; text-decoration: none; }
+.tier { margin: 10px 0; padding: 10px; border: 1px solid #ccc; }
